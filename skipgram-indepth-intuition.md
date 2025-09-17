@@ -3,7 +3,7 @@
 * <mark style="color:purple;background-color:purple;">**Here input and output is reversed**</mark>
 *
 
-    <figure><img src=".gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:purple;background-color:purple;">**When show we apply:**</mark>
 

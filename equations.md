@@ -4,10 +4,10 @@
 
 *
 
-    <figure><img src=".gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (21) (1).png" alt=""><figcaption></figcaption></figure>
 *   &#x20;      &#x20;
 
-    <figure><img src=".gitbook/assets/image (22).png" alt="" width="563"><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (22) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 * **Stacked:**
 *
 

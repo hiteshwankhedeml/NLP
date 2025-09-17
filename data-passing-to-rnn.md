@@ -11,6 +11,6 @@
 * Once forward propagation is done, then back-propagation will happen
 *
 
-    <figure><img src=".gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 [^1]: 
