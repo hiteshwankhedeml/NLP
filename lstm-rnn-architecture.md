@@ -11,7 +11,7 @@
 * Memory cell is for long term memory
 *
 
-    <figure><img src=".gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (28) (1).png" alt=""><figcaption></figcaption></figure>
 *
 
-    <figure><img src=".gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (29) (1).png" alt=""><figcaption></figcaption></figure>

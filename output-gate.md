@@ -11,4 +11,4 @@
 * <mark style="color:red;background-color:purple;">**Applying tanh ensures that only a scaled version of the memory is passed, avoiding abrupt or excessive updates.**</mark>
 *   <mark style="color:purple;background-color:purple;">**Ht is same as output**</mark>
 
-    <figure><img src=".gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (36) (1).png" alt=""><figcaption></figcaption></figure>

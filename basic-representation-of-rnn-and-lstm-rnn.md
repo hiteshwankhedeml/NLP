@@ -5,4 +5,4 @@
 * <mark style="color:purple;background-color:purple;">**Responsibility of long term memory is to add what context is required and remove context which is not required**</mark>
 *
 
-    <figure><img src=".gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (27) (1).png" alt=""><figcaption></figcaption></figure>

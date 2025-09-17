@@ -12,4 +12,4 @@
 * <mark style="color:purple;background-color:purple;">**If we directly added C\~t\tilde{C}\_tC\~t​ to the cell state, large values could disrupt learning.**</mark>
 *   <mark style="color:purple;background-color:purple;">**The sigmoid gate ensures that the update is scaled properly, preventing sudden jumps in memory.**</mark>
 
-    <figure><img src=".gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (33) (1).png" alt=""><figcaption></figcaption></figure>
