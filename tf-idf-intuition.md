@@ -5,7 +5,7 @@
 * <mark style="color:purple;background-color:purple;">**More importance to words which occur rarely**</mark>
 *
 
-    <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 *
 
-    <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>

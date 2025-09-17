@@ -11,4 +11,4 @@
 
 *   Here both the sentence are having similar vector, but they are almost opposite
 
-    <figure><img src=".gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
