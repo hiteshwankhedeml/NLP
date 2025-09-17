@@ -1,5 +1,16 @@
 # 🟢 End to End NLP Pipeline
 
+**Steps:**
+
+1. **Get the data**
+2. **Clean the data by removing ⇒ url, html tags, emoji, spell correction**
+3. **Stopwords, stemming / lemmatization**
+4. <mark style="color:purple;background-color:purple;">**Feature engineering ⇒ tf-idf , bow, word2vec**</mark>
+5. <mark style="color:purple;background-color:purple;">**Modelling**</mark>&#x20;
+6. <mark style="color:purple;background-color:purple;">**Evaluation**</mark>
+
+
+
 1. <mark style="color:purple;background-color:purple;">**Data acquisition:**</mark>
 
 * Available data -> csv, pdf, excel, db

@@ -5,9 +5,9 @@
 * In Physics , Vector = Magnitude + Direction
 *
 
-    <figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 * To represent P, \[ 4 5] is vector representation
 *
 
-    <figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 * In word2vec a word is represented using a vector of 384 dimension

@@ -5,4 +5,4 @@
 * The BOW vectors for them is very similar even though they are opposite in meaning
 *   So we make combination of words
 
-    <figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>

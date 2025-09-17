@@ -1,4 +1,4 @@
-# Lemmatization using NLTK
+# 🟢 Lemmatization using NLTK
 
 * Lemmatization technique is like stemming.&#x20;
 * The output we will get after lemmatization is called ‘lemma’, <mark style="color:purple;background-color:purple;">**which is a root word rather than root stem**</mark>, the output of stemming.&#x20;

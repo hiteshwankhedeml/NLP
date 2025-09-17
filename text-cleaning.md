@@ -1,5 +1,15 @@
 # 🔴 Text cleaning
 
+<mark style="color:purple;background-color:purple;">**Libraries Used:**</mark>
+
+* <mark style="color:purple;background-color:purple;">**retext ⇒ remove punctuation**</mark>
+* <mark style="color:purple;background-color:purple;">**nltk ⇒ remove stopwords, stemming, lemmatization**</mark>
+* <mark style="color:purple;background-color:purple;">**.lower**</mark>
+* <mark style="color:purple;background-color:purple;">**re ⇒ remove numbers / url  / special characters**</mark>
+* <mark style="color:purple;background-color:purple;">**.strip ⇒ remove whitespace**</mark>
+* <mark style="color:purple;background-color:purple;">**bs4 ⇒ html tags**</mark>
+* <mark style="color:purple;background-color:purple;">**emojitext ⇒ emoji to text**</mark>
+
 | **Operation**                 | **Example**                                                   | **Code Snippet**                                                                                                                                                              |
 | ----------------------------- | ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Remove Punctuation**        | "Hello, World!" → "Hello World"                               | `import retext = re.sub(r'[^\w\s]', '', "Hello, World!")`                                                                                                                     |
