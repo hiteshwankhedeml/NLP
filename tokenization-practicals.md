@@ -1,4 +1,4 @@
-# Tokenization Practicals
+# 🟢 Tokenization Practicals
 
 * <mark style="color:purple;background-color:purple;">**print((corpus)) # This will not display /n**</mark>
 * <mark style="color:purple;background-color:purple;">**Use nltk for tokenization**</mark>
