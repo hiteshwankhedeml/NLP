@@ -1,6 +1,6 @@
-# BOW implementation using NLTK
+# 🟢 BOW implementation using NLTK
 
-<mark style="color:purple;background-color:purple;">**Algo explained:**</mark>
+<mark style="color:purple;background-color:purple;">**Steps:**</mark>
 
 * <mark style="color:purple;background-color:purple;">Remove non alphabetic words using regular expression</mark>
 * <mark style="color:purple;background-color:purple;">Lowercase and split</mark>

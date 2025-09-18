@@ -1,4 +1,4 @@
-# Encoding and Embedding
+# ✈️ Encoding and Embedding
 
 * Numerical representation of the text
 * Encoding term is used for frequency based method

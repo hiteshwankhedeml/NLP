@@ -1,4 +1,4 @@
-# Vector
+# ✈️ Vector
 
 * If a person walk in east for 5KM then we say its 5E->
 * Similarly 10 is between S and E, so here 10 represents magnitude and SE represents direction

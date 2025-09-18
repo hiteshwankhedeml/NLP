@@ -1,4 +1,4 @@
-# One Hot Encoding - 2
+# ✈️ One Hot Encoding - 2
 
 * Sentences:
   * People watch cricket - D1

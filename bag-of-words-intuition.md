@@ -1,4 +1,4 @@
-# Bag of words intuition
+# 🟢 Bag of words intuition
 
 * <mark style="color:purple;background-color:purple;">**Lower all the words**</mark>
 * <mark style="color:purple;background-color:purple;">**Remove the stopwords**</mark>
