@@ -1,4 +1,4 @@
-# Word2Vec intuition
+# 🟢 Word2Vec intuition
 
 * 2013
 * <mark style="color:purple;background-color:purple;">**Uses a neural network model to learn word associations from a large corpus of text**</mark>

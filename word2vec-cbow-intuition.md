@@ -1,4 +1,4 @@
-# Word2Vec Cbow Intuition
+# 🟢 Word2Vec Cbow Intuition
 
 
 

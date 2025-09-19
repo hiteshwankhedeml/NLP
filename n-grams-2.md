@@ -1,4 +1,4 @@
-# N Grams - 2
+# ✈️ N Grams - 2
 
 * We make pairs ⇒ Context of the data was captured
 * N = 1 ⇒ Single word (Unigram) ⇒ Output will be same as BOW

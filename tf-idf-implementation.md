@@ -1,4 +1,6 @@
-# TF IDF implementation
+# 🟢 TF IDF implementation
+
+* <mark style="color:purple;background-color:purple;">**Use TfidfVectorizer from sklearn**</mark>
 
 ```python
 from sklearn.feature_extraction.text import TfidfVectorizer

@@ -1,10 +1,10 @@
 # 🟢 End to End NLP Pipeline
 
-**Steps:**
+<mark style="color:purple;background-color:purple;">**Steps:**</mark>
 
-1. **Get the data**
-2. **Clean the data by removing ⇒ url, html tags, emoji, spell correction**
-3. **Stopwords, stemming / lemmatization**
+1. <mark style="color:purple;background-color:purple;">**Get the data**</mark>
+2. <mark style="color:purple;background-color:purple;">**Clean the data by removing ⇒ url , html tags, emoji, spell correction**</mark>
+3. <mark style="color:purple;background-color:purple;">**Stopwords, stemming / lemmatization ⇒ Depending on usecase**</mark>
 4. <mark style="color:purple;background-color:purple;">**Feature engineering ⇒ tf-idf , bow, word2vec**</mark>
 5. <mark style="color:purple;background-color:purple;">**Modelling**</mark>&#x20;
 6. <mark style="color:purple;background-color:purple;">**Evaluation**</mark>

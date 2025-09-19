@@ -1,6 +1,6 @@
-# N Gram BOW implementation using NLTK
+# 🟢 N Gram BOW implementation using NLTK
 
-
+* <mark style="color:purple;background-color:purple;">**Use CountVectorizer from sklearn**</mark>
 
 ```python
 ## Create the Bag OF Words model with ngram
