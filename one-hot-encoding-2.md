@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ✈️ One Hot Encoding - 2
 
 * Sentences:

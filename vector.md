@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ✈️ Vector
 
 * If a person walk in east for 5KM then we say its 5E->

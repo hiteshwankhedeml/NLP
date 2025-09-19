@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ✈️ N Grams - 2
 
 * We make pairs ⇒ Context of the data was captured

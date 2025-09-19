@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ✈️ Encoding and Embedding
 
 * Numerical representation of the text

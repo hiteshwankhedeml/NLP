@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ✈️ What's Next
 
 *
