@@ -15,7 +15,7 @@
 * For large text, the number of words will be very large
 * <mark style="color:purple;background-color:purple;">**Added only to encoder 1, output of encoder 1 will be propagated to subsequent encoders**</mark>
 
-Types of Position encoding&#x20;
+**Types of Position encoding**&#x20;
 
 1. Sinusoidal Position Encoding:
 

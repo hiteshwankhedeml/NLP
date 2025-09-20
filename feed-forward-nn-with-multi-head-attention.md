@@ -1,4 +1,4 @@
-# Feed Forward NN with Multi Head Attention
+# 🟢 Feed Forward NN with Multi Head Attention
 
 * For every word, we will be getting multiple attention heads ⇒ Z1, Z2..... ⇒ If there are 8 attention heads then we will get 8Z
 * We need to pass all this to feed forward NN
