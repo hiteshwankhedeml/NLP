@@ -1,4 +1,4 @@
-# Word2Vec - For your own data
+# ✈️ Word2Vec - For your own data
 
 ```python
 from gensim.models import Word2Vec

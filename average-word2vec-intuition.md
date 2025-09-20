@@ -1,6 +1,6 @@
-# Average Word2Vec intuition
+# ✈️ Average Word2Vec intuition
 
-* &#x20;In word2vec we take every word and we convert it into vectors
+* In word2vec we take every word and we convert it into vectors
 * If we are using google pre-trained word2vec model
 * We will get feature representation of 300 dimension for word 'the'
 * similarly for every word we will get feature representation of 300 dimension

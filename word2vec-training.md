@@ -1,10 +1,18 @@
-# Word2Vec - Training
+# 🟢 Word2Vec - Training
 
-* **Pretrained:**
-  * Google\_news\_300 - This will convert every word into 300 dimension
-* **Train from scratch:**
-  * If 75% of the words are there in the pretrained model, then use it otherwise better to train it
+* <mark style="color:purple;background-color:purple;">**Pretrained:**</mark>
+  * <mark style="color:purple;background-color:purple;">**Google\_news\_300 - This will convert every word into 300 dimension**</mark>
+* <mark style="color:purple;background-color:purple;">**Train from scratch:**</mark>
+  * <mark style="color:purple;background-color:purple;">**If 75% of the words are there in the pretrained model, then use it otherwise better to train it**</mark>
 * [https://github.com/krishnaik06/NLP-Live/blob/main/Day%205-%20NLP%20Word2vec%20And%20AvgWord2vec.ipynb](https://github.com/krishnaik06/NLP-Live/blob/main/Day%205-%20NLP%20Word2vec%20And%20AvgWord2vec.ipynb)
+
+<mark style="color:purple;background-color:purple;">**Steps:**</mark>
+
+* <mark style="color:purple;background-color:purple;">Get the data</mark>
+* <mark style="color:purple;background-color:purple;">Data cleaning</mark>
+* <mark style="color:purple;background-color:purple;">Convert X into BOW / TF-IDF</mark>
+* <mark style="color:purple;background-color:purple;">Convery Y to OHE</mark>
+* <mark style="color:purple;background-color:purple;">Modelling</mark>
 
 ```python
 # Ham and spam classification
