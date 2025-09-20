@@ -1,4 +1,4 @@
-# What and Why to use Transformers
+# 🟢 What and Why to use Transformers
 
 * Type of <mark style="color:purple;background-color:purple;">**DL model that uses self attention mechanism**</mark> to analyze and process natural language data
 * They are <mark style="color:purple;background-color:purple;">**encoder decoder models**</mark> that can be used for many applications including machine translation (Seq2Seq task)

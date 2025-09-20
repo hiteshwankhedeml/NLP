@@ -1,4 +1,4 @@
-# Self attention layer working
+# 🟢 Self attention layer working
 
 * Also known as scaled-dot product attention, is a crucial mechanism in the transformer architecture that <mark style="color:purple;background-color:purple;">**allows the model to weigh the importance of different tokens in the input sequence relative to the other**</mark>
 * &#x20;The cat sat ⇒ this will be converted into vectors
@@ -55,6 +55,7 @@ Q,K,V ⇒ Dimension - 4
 2. Linear Transformation:
 
 * <mark style="color:purple;background-color:purple;">**We create Q,K and V by multiplying the embeddings by learned weight matrices**</mark> $$W_Q, W_K, W_V$$
+* <mark style="color:purple;background-color:purple;">**Change the dimension of**</mark> $$W_V$$ <mark style="color:purple;background-color:purple;">**controls the dimension of output embedding**</mark>
 * We will do dot operation and CAT and $$W_Q$$ to get Q and so on for V and K
 *   We will initialize weights and then using back propagation it will be learned
 
@@ -82,11 +83,11 @@ Q,K,V ⇒ Dimension - 4
 * Dot product without scaling:
   * $$Q.K^T_1$$ = 6
   * $$Q.K^T_2$$ = 4
-  * Score \[6, 4] ⇒  Scaling not applied
-  * Softmax (\[ 6 4])  = \[0.88, 0.12]
-  * This value means that most of the attention weight is assigned to the first key vector and very little to the second vector
-  * When we apply softmax to 6,4 then there is lot of difference between output
-  *   When we do back propagation then the small value will cause vanishing gradient problem
+  * <mark style="color:purple;background-color:purple;">**Score \[6, 4] ⇒  Scaling not applied**</mark>
+  * <mark style="color:purple;background-color:purple;">**Softmax (\[ 6 4])  = \[0.88, 0.12]**</mark>
+  * <mark style="color:purple;background-color:purple;">**This value means that most of the attention weight is assigned to the first key vector and very little to the second vector**</mark>
+  * <mark style="color:purple;background-color:purple;">**When we apply softmax to 6,4 then there is lot of difference between output**</mark>
+  *   <mark style="color:purple;background-color:purple;">**When we do back propagation then the small value will cause vanishing gradient problem**</mark>
 
       <figure><img src=".gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 * Dot product with scaling:
@@ -117,3 +118,4 @@ Q,K,V ⇒ Dimension - 4
 *
 
     <figure><img src=".gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+
