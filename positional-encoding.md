@@ -1,4 +1,4 @@
-# Positional Encoding
+# 🟢 Positional Encoding
 
 * Representing order of sequence
 * <mark style="color:purple;background-color:purple;">**Major advantage of using transformer is that it can process all the word tokens parallelly but it lacks the sequential structure of the words**</mark>
@@ -20,7 +20,8 @@
 1. Sinusoidal Position Encoding:
 
 * <mark style="color:purple;background-color:purple;">**It uses sine and cosine function of different frequencies to create positional encodings**</mark>
-*
+* <mark style="color:purple;background-color:purple;">**Even indices → sine , Odd indices → cosine**</mark>
+*   <mark style="color:purple;background-color:purple;">**It's length will be same as token embedding, so that they can be added**</mark>
 
     <figure><img src=".gitbook/assets/{FBF9A4E3-7E52-4916-82E9-03130052DDF6}.png" alt=""><figcaption></figcaption></figure>
 
