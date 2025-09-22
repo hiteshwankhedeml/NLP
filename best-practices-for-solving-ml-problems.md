@@ -1,4 +1,4 @@
-# Best practices for solving ML problems
+# 🟢 Best practices for solving ML problems
 
 * Pre process and clean the data -> Feature engineering
 * Train, test split

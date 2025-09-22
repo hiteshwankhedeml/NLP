@@ -1,6 +1,12 @@
-# Text Classification with Word2Vec and AvgWord2Vec
+# 🟢 Text Classification with Word2Vec and AvgWord2Vec
 
-* Convert corpus into list of list (For every sentence, list of words)
+<mark style="color:purple;background-color:purple;">**Steps:**</mark>
+
+* <mark style="color:purple;background-color:purple;">**Load word2vec google model using gensim**</mark>
+* <mark style="color:purple;background-color:purple;">**Sentence tokenize the corpus**</mark>
+* <mark style="color:purple;background-color:purple;">**Convert corpus into list of list (For every sentence, list of words) use gensim simple\_preprocess**</mark>
+* <mark style="color:purple;background-color:purple;">**Use avgword2vec**</mark>
+* <mark style="color:purple;background-color:purple;">**Use this embedding with any model**</mark>
 
 ```python
 # Spam/Ham classification

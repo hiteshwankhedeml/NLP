@@ -1,4 +1,4 @@
-# ✈️ Average Word2Vec intuition
+# 🟢 Average Word2Vec intuition
 
 * In word2vec we take every word and we convert it into vectors
 * If we are using google pre-trained word2vec model

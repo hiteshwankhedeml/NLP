@@ -1,6 +1,11 @@
-# Sentence embedding using sentence transformer
+# 🟢 Sentence embedding using sentence transformer
 
-* all-mpnet-base-v2 is transformer based model
+* <mark style="color:purple;background-color:purple;">**all-mpnet-base-v2 / all-MiniLM-L6-v2 is transformer based model**</mark>
+
+<mark style="color:purple;background-color:purple;">**Steps:**</mark>
+
+* <mark style="color:purple;background-color:purple;">**from sentence transformer get the model**</mark>
+* <mark style="color:purple;background-color:purple;">**use model.encode to embed the sentence**</mark>
 
 ```python
 from sentence_transformers import  SentenceTransformer
