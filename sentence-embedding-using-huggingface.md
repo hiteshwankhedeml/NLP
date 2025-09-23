@@ -1,4 +1,10 @@
-# Sentence embedding using Huggingface
+# 🟢 Sentence embedding using Huggingface
+
+<mark style="color:purple;background-color:purple;">**Steps:**</mark>
+
+* <mark style="color:purple;background-color:purple;">from langchain import huggingface embeddings</mark>
+* <mark style="color:purple;background-color:purple;">initialize embedding by passing name and additional parameters if any</mark>
+* <mark style="color:purple;background-color:purple;">pass the sentence to be embedded</mark>
 
 ```python
 from langchain.embeddings import HuggingFaceEmbeddings

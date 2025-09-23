@@ -1,5 +1,11 @@
 # Sentence embedding using transformers
 
+Steps:
+
+* from transformers get tokenizer
+* initlaize the tokenizer by passing model name
+* We encode the sentence, we also pass padding, truncation, and add bert specific tokens like \[CLS] and \[SEPwh]
+
 ```python
 import torch
 from transformers import BertTokenizer, BertModel

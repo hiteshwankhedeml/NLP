@@ -1,4 +1,4 @@
-# Short term memory problem
+# 🟢 Short term memory problem
 
 **Simple RNN example:**
 
@@ -27,7 +27,7 @@
     <figure><img src=".gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 * If we see the diagram, by t = 4, already the context of what is very little
 * After the timestamp of 5, if we start putting the next words, then it will remember the last 5 words and start forgetting the previous input
-* <mark style="color:purple;background-color:green;">**If the input is long, then it starts forgetting previous input, This is known as short term memory problem**</mark>
+* <mark style="color:purple;background-color:purple;">**If the input is long, then it starts forgetting previous input, This is known as short term memory problem**</mark>
 * RNN suffers from this issue
 
 

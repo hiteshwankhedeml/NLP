@@ -1,4 +1,4 @@
-# Trainable Parameters
+# 🟢 Trainable Parameters
 
 * 31 trainable parameters here
 * <mark style="color:purple;background-color:purple;">**Input to Hidden layer: 15**</mark>

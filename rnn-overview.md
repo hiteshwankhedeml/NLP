@@ -1,4 +1,4 @@
-# RNN Overview
+# 🟢 RNN Overview
 
 * In ANN, we give input which goes to HL and then we get output
 * In RNN, we will be having input layer, hidden layer and output layer

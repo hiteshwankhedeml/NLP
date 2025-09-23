@@ -1,4 +1,8 @@
-# Letter Embedding
+---
+hidden: true
+---
+
+# ✈️ Letter Embedding
 
 * Dataset -> Million headlines which contains headlines of news
 * We will predict what is going to be the next letter

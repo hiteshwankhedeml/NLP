@@ -1,4 +1,4 @@
-# Sequential Memory
+# 🟢 Sequential Memory
 
 * A B C D ……….Z
 * We know after A, B will come and so on
