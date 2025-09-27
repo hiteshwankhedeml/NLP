@@ -15,4 +15,4 @@
 * To remember the position at t-1 we need to have memory
 * So we need to know what happen in the past
 * This is known as sequential memory
-* <mark style="color:purple;background-color:purple;">**R**</mark>**NN remember what happen in the past and then makes prediction for future**
+* **R**<mark style="color:purple;background-color:purple;">**NN remember what happen in the past and then makes prediction for future**</mark>

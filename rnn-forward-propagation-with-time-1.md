@@ -1,4 +1,4 @@
-# RNN forward propagation with time
+# 🟢 RNN forward propagation with time
 
 * Input x11 will be multiplied with weight and bias will be added and we will get O1
 * For transfer of O1 to next timestamp again there will be a weight

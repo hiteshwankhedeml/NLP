@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ✈️ Lemmatization
 
 * Reduces a word to its base form while considering the context and the words grammatical meaning

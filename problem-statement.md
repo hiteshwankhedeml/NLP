@@ -1,5 +1,6 @@
-# Problem Statement
+# 🟢 Problem Statement
 
+* <mark style="color:purple;background-color:purple;">**Sentiment Analysis of IMDB Reviews**</mark>
 * IMDB dataset
   * Reviews       Output (Positive/Negative)
 * Using simple RNN

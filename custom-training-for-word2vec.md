@@ -1,5 +1,10 @@
 # 🟢 Custom training for word2vec
 
+* <mark style="color:purple;background-color:purple;">**Pretrained:**</mark>
+  * <mark style="color:purple;background-color:purple;">**Google\_news\_300 - This will convert every word into 300 dimension**</mark>
+* <mark style="color:purple;background-color:purple;">**Train from scratch:**</mark>
+  * <mark style="color:purple;background-color:purple;">**If 75% of the words are there in the pretrained model, then use it otherwise better to train it**</mark>
+
 <mark style="color:purple;background-color:purple;">**Steps:**</mark>
 
 * <mark style="color:purple;background-color:purple;">**Get the corpus**</mark>

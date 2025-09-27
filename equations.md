@@ -1,4 +1,8 @@
-# Equations
+---
+hidden: true
+---
+
+# ✈️ Equations
 
 
 

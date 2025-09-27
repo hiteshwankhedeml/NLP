@@ -1,4 +1,4 @@
-# 🟢 Word2Vec - Training
+# ✈️ Word2Vec - Training
 
 * <mark style="color:purple;background-color:purple;">**Pretrained:**</mark>
   * <mark style="color:purple;background-color:purple;">**Google\_news\_300 - This will convert every word into 300 dimension**</mark>

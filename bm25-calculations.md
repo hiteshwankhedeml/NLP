@@ -1,4 +1,4 @@
-# 🟢 BM25 - Calculations
+# ✈️ BM25 - Calculations
 
 ## BM25 Example with Step-by-Step Calculations in Tabular Format
 
