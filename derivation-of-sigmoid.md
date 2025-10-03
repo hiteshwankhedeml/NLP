@@ -1,2 +1,0 @@
-# Derivation of Sigmoid
-

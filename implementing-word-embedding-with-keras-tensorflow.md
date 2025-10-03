@@ -1,11 +1,14 @@
-# Implementing Word Embedding with Keras Tensorflow
+# 🟢 Implementing Word Embedding with Keras Tensorflow
 
-* <mark style="color:purple;background-color:purple;">**We index all the words**</mark>
-* <mark style="color:purple;background-color:purple;">**We do one hot indexing**</mark>
-* <mark style="color:purple;background-color:purple;">**We need all the sentences to be of equal size, so that's why we use padding**</mark>
-* <mark style="color:purple;background-color:purple;">**We add padding to make them equal length and then we do embedding**</mark>
-* We can use pre padding - 0 will be added in front
-* Post padding - 0 will be added at the end
+<mark style="color:purple;background-color:purple;">**Steps:**</mark>
+
+* <mark style="color:purple;background-color:purple;">We index all the words</mark>
+* <mark style="color:purple;background-color:purple;">We do one hot indexing</mark>
+* <mark style="color:purple;background-color:purple;">We need all the sentences to be of equal size, so that's why we use padding</mark>
+* <mark style="color:purple;background-color:purple;">We add padding to make them equal length and then we do embedding</mark>
+* <mark style="color:purple;background-color:purple;">We can use pre padding - 0 will be added in front</mark>
+* <mark style="color:purple;background-color:purple;">Post padding - 0 will be added at the end</mark>
+* <mark style="color:purple;background-color:purple;">We can use embedding layer for keras ⇒ pass vocab size, dimension</mark>
 
 ```python
 from tensorflow.keras.preprocessing.text import one_hot

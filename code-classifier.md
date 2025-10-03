@@ -1,4 +1,6 @@
-# Code - Classifier
+# 🟢 Code - Classifier
+
+**Steps:**
 
 * Clean the data ⇒ Remove punctuations and all
 * Encoding the words
@@ -8,6 +10,8 @@
 * Each rows needs to be of length 200, if its not then add 0 post padding
 * Do train, test split
 * Define RNN architecture
+  * `return_sequences=True` → again returns a sequence of outputs for each timestep.
+  * `return_sequences=False`  → outputs **only the last hidden state**.
 
 ```python
 import numpy as np

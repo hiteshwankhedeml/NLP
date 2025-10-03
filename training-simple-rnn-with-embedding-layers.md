@@ -1,6 +1,17 @@
-# Training simple RNN with embedding layers
+# 🟢 Training simple RNN with embedding layers
 
 * <mark style="color:purple;background-color:purple;">**In the NN, we will add 1st layer as embedding in which we will specify vocabulary size, dimension and sequ**</mark>
+
+<mark style="color:purple;background-color:purple;">**Steps:**</mark>
+
+* <mark style="color:purple;background-color:purple;">Define sequential model</mark>
+* <mark style="color:purple;background-color:purple;">Add embedding layer</mark>
+* <mark style="color:purple;background-color:purple;">Add RNN with no. of neurons and activation function</mark>
+* <mark style="color:purple;background-color:purple;">Add Output layer</mark>
+* <mark style="color:purple;background-color:purple;">Compile the model ⇒ pass optimizer, loss, metrics</mark>
+* <mark style="color:purple;background-color:purple;">Define callback for earlystopping</mark>
+* <mark style="color:purple;background-color:purple;">model.fit ⇒ pass data, no. of epochs, batcd size, split ratio and callbacks</mark>
+* <mark style="color:purple;background-color:purple;">Save the model as .h5</mark>
 
 ```python
 ## Train Simple RNN

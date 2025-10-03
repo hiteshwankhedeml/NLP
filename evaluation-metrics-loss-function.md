@@ -1,4 +1,4 @@
-# Evaluation Metrics, Loss Function
+# 🟢 Evaluation Metrics, Loss Function
 
 | Task                           | Common Evaluation Metrics             | Common Loss Functions                      |
 | ------------------------------ | ------------------------------------- | ------------------------------------------ |

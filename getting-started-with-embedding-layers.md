@@ -1,4 +1,8 @@
-# Getting started with embedding layers
+---
+hidden: true
+---
+
+# ✈️ Getting started with embedding layers
 
 * Word embedding (Feature Representation)
 * <mark style="color:purple;background-color:purple;">**Important parameters for this are vocabulary size and dimensions**</mark>

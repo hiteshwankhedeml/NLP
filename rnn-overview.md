@@ -2,7 +2,7 @@
 
 * In ANN, we give input which goes to HL and then we get output
 * In RNN, we will be having input layer, hidden layer and output layer
-* Along with this we will have feedback loop
+* Along with this <mark style="color:purple;background-color:purple;">**we will have feedback loop**</mark>
 *   <mark style="color:purple;background-color:purple;">**The output of the hidden layer will be back to the neuron**</mark>
 
     <figure><img src=".gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
