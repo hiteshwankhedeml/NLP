@@ -1,0 +1,3 @@
+# Look Ahead Masking
+
+*
