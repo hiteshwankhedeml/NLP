@@ -1,8 +1,14 @@
-# Simple RNN with Pretrained embeddings
+# 🟢 Simple RNN with Pretrained embeddings
 
-Steps:
+<mark style="color:purple;background-color:purple;">**Steps:**</mark>
 
-*
+* <mark style="color:purple;background-color:purple;">**Take the pre-trained embedding weights (GloVe vectors).**</mark>
+* <mark style="color:purple;background-color:purple;">**For each word in your dataset’s vocabulary (here IMDB’s top 10,000 words):**</mark>
+* <mark style="color:purple;background-color:purple;">**Look up the word in the GloVe embeddings.**</mark>
+* <mark style="color:purple;background-color:purple;">**If found → copy its vector into the corresponding row of**</mark><mark style="color:purple;background-color:purple;">**&#x20;**</mark><mark style="color:purple;background-color:purple;">**`embedding_matrix`**</mark><mark style="color:purple;background-color:purple;">**.**</mark>
+* <mark style="color:purple;background-color:purple;">**If not found → fill that row with zeros.**</mark>
+* <mark style="color:purple;background-color:purple;">**Pass**</mark><mark style="color:purple;background-color:purple;">**&#x20;**</mark><mark style="color:purple;background-color:purple;">**`embedding_matrix`**</mark><mark style="color:purple;background-color:purple;">**&#x20;**</mark><mark style="color:purple;background-color:purple;">**to the Embedding layer as**</mark><mark style="color:purple;background-color:purple;">**&#x20;**</mark><mark style="color:purple;background-color:purple;">**`weights=[embedding_matrix]`**</mark><mark style="color:purple;background-color:purple;">**.**</mark>
+* <mark style="color:purple;background-color:purple;">**We keep trainable=False in embedding layer, as we don't want weights to change**</mark>
 
 ```python
 import numpy as np

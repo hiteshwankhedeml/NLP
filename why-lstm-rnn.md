@@ -1,4 +1,4 @@
-# Why LSTM RNN
+# 🟢 Why LSTM RNN
 
 * <mark style="color:purple;background-color:purple;">**RNN suffered from Long term dependencies and Vanishing Gradient Problem ⇒ So LSTM was required**</mark>
 * [https://colah.github.io/posts/2015-08-Understanding-LSTMs/](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)

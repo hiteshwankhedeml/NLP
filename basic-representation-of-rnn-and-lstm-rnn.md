@@ -1,4 +1,4 @@
-# Basic Representation of RNN and LSTM RNN
+# 🟢 Basic Representation of RNN and LSTM RNN
 
 * RNN has short term memory
 * <mark style="color:purple;background-color:purple;">**In LSTM we are also adding a long term memory along with the short term memory**</mark>
