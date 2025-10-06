@@ -1,4 +1,4 @@
-# Prediction from trained Simple RNN
+# 🟢 Prediction from trained Simple RNN
 
 * <mark style="color:purple;background-color:purple;">**We 1st pre process the sentence for which prediction to be done**</mark>
   * <mark style="color:purple;background-color:purple;">**We lowercase and split**</mark>

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🟢 Implementing Word Embedding with Keras Tensorflow
 
 <mark style="color:purple;background-color:purple;">**Steps:**</mark>
@@ -9,6 +13,7 @@
 * <mark style="color:purple;background-color:purple;">We can use pre padding - 0 will be added in front</mark>
 * <mark style="color:purple;background-color:purple;">Post padding - 0 will be added at the end</mark>
 * <mark style="color:purple;background-color:purple;">We can use embedding layer for keras ⇒ pass vocab size, dimension</mark>
+* <mark style="color:purple;background-color:purple;">Note - This is toy example</mark>
 
 ```python
 from tensorflow.keras.preprocessing.text import one_hot

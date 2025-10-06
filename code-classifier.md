@@ -1,17 +1,19 @@
 # 🟢 Code - Classifier
 
-**Steps:**
+<mark style="color:purple;background-color:purple;">**Steps:**</mark>
 
-* Clean the data ⇒ Remove punctuations and all
-* Encoding the words
-  * For each word we will give a number here (Use enumerate)
-  * Each sentence will be converted into numbers then
-* Encode the labels ⇒ Positive:1 , Negative: 0
-* Each rows needs to be of length 200, if its not then add 0 post padding
-* Do train, test split
-* Define RNN architecture
-  * `return_sequences=True` → again returns a sequence of outputs for each timestep.
-  * `return_sequences=False`  → outputs **only the last hidden state**.
+* <mark style="color:purple;background-color:purple;">Clean the data ⇒ Remove punctuations and all</mark>
+* <mark style="color:purple;background-color:purple;">Encoding the words</mark>
+  * <mark style="color:purple;background-color:purple;">For each word we will give a number here (Use enumerate)</mark>
+  * <mark style="color:purple;background-color:purple;">Each sentence will be converted into numbers then</mark>
+* <mark style="color:purple;background-color:purple;">Encode the labels ⇒ Positive:1 , Negative: 0</mark>
+* <mark style="color:purple;background-color:purple;">Each rows needs to be of length 200, if its not then add 0 post padding</mark>
+* <mark style="color:purple;background-color:purple;">Do train, test split</mark>
+* <mark style="color:purple;background-color:purple;">Define RNN architecture</mark>
+  * <mark style="color:purple;background-color:purple;">`return_sequences=True`</mark> <mark style="color:purple;background-color:purple;"></mark><mark style="color:purple;background-color:purple;">→  returns a sequence of outputs for each timestep.</mark>
+  * <mark style="color:purple;background-color:purple;">`return_sequences=False`</mark>  <mark style="color:purple;background-color:purple;"></mark><mark style="color:purple;background-color:purple;">→ outputs</mark> <mark style="color:purple;background-color:purple;"></mark><mark style="color:purple;background-color:purple;">**only the last hidden state**</mark><mark style="color:purple;background-color:purple;">.</mark>
+  * <mark style="color:purple;background-color:purple;">If you don’t specify</mark> <mark style="color:purple;background-color:purple;"></mark><mark style="color:purple;background-color:purple;">`activation`</mark> <mark style="color:purple;background-color:purple;"></mark><mark style="color:purple;background-color:purple;">in</mark> <mark style="color:purple;background-color:purple;"></mark><mark style="color:purple;background-color:purple;">`SimpleRNN`</mark> <mark style="color:purple;background-color:purple;"></mark><mark style="color:purple;background-color:purple;">→ default is</mark> <mark style="color:purple;background-color:purple;"></mark><mark style="color:purple;background-color:purple;">`tanh`</mark><mark style="color:purple;background-color:purple;">.</mark>
+  * <mark style="color:purple;background-color:purple;">If you don’t specify</mark> <mark style="color:purple;background-color:purple;"></mark><mark style="color:purple;background-color:purple;">`activation`</mark> <mark style="color:purple;background-color:purple;"></mark><mark style="color:purple;background-color:purple;">in</mark> <mark style="color:purple;background-color:purple;"></mark><mark style="color:purple;background-color:purple;">`Dense`</mark> <mark style="color:purple;background-color:purple;"></mark><mark style="color:purple;background-color:purple;">→ default is linear (no activation).</mark>
 
 ```python
 import numpy as np

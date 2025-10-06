@@ -1,6 +1,8 @@
 # Simple RNN with Pretrained embeddings
 
+Steps:
 
+*
 
 ```python
 import numpy as np
