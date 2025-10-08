@@ -1,4 +1,4 @@
-# Variants of LSTM RNN - Peephole
+# 🟢 Variants of LSTM RNN - Peephole
 
 * Introduced by Gers and Schmidhuber in 2000
 * <mark style="color:purple;background-color:purple;">**Ct-1 has been passed to Input gate and forget gate**</mark>

@@ -1,4 +1,4 @@
-# Input Gate and Candidate memory
+# 🟢 Input Gate and Candidate memory
 
 * Xt and Ht-1 is concatenated
 * From input gate we will get It

@@ -1,4 +1,4 @@
-# Output Gate
+# 🟢 Output Gate
 
 * <mark style="color:purple;background-color:purple;">**Whatever information we have after forgetting and adding we will be having Ct (Long term memory)**</mark>
 * <mark style="color:purple;background-color:purple;">**We applt tanh on Ct**</mark>
