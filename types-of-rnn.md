@@ -1,4 +1,4 @@
-# Types of RNN
+# ✈️ Types of RNN
 
 * <mark style="color:purple;background-color:purple;">**One to Many:**</mark> Image Captioning
 * <mark style="color:purple;background-color:purple;">**Many to One:**</mark> Image Search

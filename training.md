@@ -1,6 +1,13 @@
-# Training
+# 🟢 Training
 
+<mark style="color:purple;background-color:purple;">**Steps:**</mark>
 
+* <mark style="color:purple;background-color:purple;">**NN Architecture**</mark>
+  * <mark style="color:purple;background-color:purple;">**Sequential**</mark>
+  * <mark style="color:purple;background-color:purple;">**LSTM**</mark>
+  * <mark style="color:purple;background-color:purple;">**Dense with softmax, and no. of neurons as unique words**</mark>&#x20;
+* <mark style="color:purple;background-color:purple;">**Compile ⇒ Use categorical cross entropy loss, with adam optimizer**</mark>
+* <mark style="color:purple;background-color:purple;">**fit**</mark>
 
 ```python
 # Split the data into training and testing sets

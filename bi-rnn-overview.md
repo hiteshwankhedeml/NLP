@@ -7,7 +7,9 @@
 **Issues:**
 
 1. <mark style="color:purple;background-color:purple;">**A regular RNN only looks at past and present input before generating output. This is called as casual network. It cannot look into the future**</mark>
-2. ![](<.gitbook/assets/image (56).png>)
+2.
+
+    <figure><img src=".gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
 
 * Here without knowing the next word, it wont be able to understand that queen is used in which context
 * <mark style="color:purple;background-color:purple;">**A regular RNN will go only L to R, so it wont be able to understand the context and may not predict correct output, this will happen in cases where word can have multiple meanings (e.g., queen)**</mark>

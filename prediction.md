@@ -1,6 +1,12 @@
-# Prediction
+# 🟢 Prediction
 
+<mark style="color:purple;background-color:purple;">**Steps:**</mark>
 
+* <mark style="color:purple;background-color:purple;">**Tokenize the text**</mark>
+* <mark style="color:purple;background-color:purple;">**Padding**</mark>
+* <mark style="color:purple;background-color:purple;">**Predict**</mark>
+* <mark style="color:purple;background-color:purple;">**Find the index with the highest prob by using argmax**</mark>
+* <mark style="color:purple;background-color:purple;">**Using index find the word from the tokenizer**</mark>
 
 ```python
 # Function to predict the next word

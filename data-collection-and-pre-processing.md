@@ -1,4 +1,12 @@
-# Data Collection and Pre Processing
+# 🟢 Data Collection and Pre Processing
+
+<mark style="color:purple;background-color:purple;">**Steps:**</mark>
+
+* <mark style="color:purple;background-color:purple;">**Read the corpus**</mark>
+* <mark style="color:purple;background-color:purple;">**from keras use tokenizer.fit\_on\_texts(corpus) ⇒ to encode the numbers**</mark>
+* <mark style="color:purple;background-color:purple;">**create input sequences ⇒ since this is for word prediction, we will be create sequence of different lengths**</mark>
+* <mark style="color:purple;background-color:purple;">**Padding**</mark>
+* <mark style="color:purple;background-color:purple;">**last letter will go into y, remaining will go into x**</mark>
 
 ```python
 ## Data Collection
