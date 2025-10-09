@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ✈️ Types of RNN
 
 * <mark style="color:purple;background-color:purple;">**One to Many:**</mark> Image Captioning

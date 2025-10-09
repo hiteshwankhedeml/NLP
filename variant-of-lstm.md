@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ✈️ Variant of LSTM
 
 * Here we are coupling forget and input gates

@@ -1,4 +1,8 @@
-# GRU Equations
+---
+hidden: true
+---
+
+# ✈️ GRU Equations
 
 
 

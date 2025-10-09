@@ -1,4 +1,4 @@
-# Sequence Length
+# 🟢 Sequence Length
 
 * Sentences can be of different lengths
 * Today we going to learn NMT - 1st sentence

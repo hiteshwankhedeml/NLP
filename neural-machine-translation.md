@@ -46,6 +46,8 @@
 * (in this diagram it is not group of RNN, it is rolled over time)
 * We compared target and predicted
 * There are only 2 mistakes
+* <mark style="color:purple;background-color:purple;">**During training, we feed ground truth token at each step.**</mark>
+* <mark style="color:purple;background-color:purple;">**During inference, we feed predicted token instead of the ground truth.**</mark>
 * So <mark style="color:purple;background-color:purple;">**weights of this RNNs will be updated, and the embedding lookup will also be updated and it will backpropagate all the previous RNN and then weights and embedding lookup of encoder as well**</mark>
 * <mark style="color:purple;background-color:purple;">**Embedding layer for English as well as hindi will be updated**</mark>
 * RNNs of encoder and decoder will learn the sequence

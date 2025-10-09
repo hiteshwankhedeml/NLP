@@ -1,4 +1,4 @@
-# Code - Sentiment Analysis
+# ✈️ Code - Sentiment Analysis
 
 
 
@@ -16,7 +16,7 @@ Continue until all batches are created
 
 * <mark style="color:purple;">**We do shuffle only on train and not on test**</mark>
 * <mark style="color:purple;">**`train_ds`**</mark><mark style="color:purple;">**&#x20;**</mark><mark style="color:purple;">**is usually a TensorFlow Dataset created from**</mark><mark style="color:purple;">**&#x20;**</mark><mark style="color:purple;">**`(text, label)`**</mark><mark style="color:purple;">**.**</mark>
-* <mark style="color:purple;">**Each record is a tuple: (Input Text,Label)(\text{Input Text}, \text{Label})(Input Text,Label)**</mark>
+* <mark style="color:purple;">**Each record is a tuple: (Input Text,Label)(Input Text, Label)(Input Text,Label)**</mark>
 * <mark style="color:purple;">**We convert text into numbers using encoder**</mark>
   * <mark style="color:purple;">**Most frequent words (based on occurrence in the dataset).**</mark>
   * <mark style="color:purple;">**Rare words are ignored if they exceed the vocab limit.**</mark>

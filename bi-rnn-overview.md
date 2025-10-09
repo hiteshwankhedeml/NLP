@@ -1,4 +1,4 @@
-# Bi RNN - Overview
+# 🟢 Bi RNN - Overview
 
 <figure><img src=".gitbook/assets/image (55).png" alt="" width="210"><figcaption></figcaption></figure>
 
@@ -12,6 +12,11 @@
     <figure><img src=".gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
 
 * Here without knowing the next word, it wont be able to understand that queen is used in which context
+* <mark style="color:purple;background-color:purple;">**Bidirectional GRU: output at depends on past + future context.**</mark>
+* <mark style="color:purple;background-color:purple;">**Very useful for NLP tasks where both sides of the sentence matter, e.g.:**</mark>
+  * <mark style="color:purple;background-color:purple;">**Named Entity Recognition**</mark>
+  * <mark style="color:purple;background-color:purple;">**POS tagging**</mark>
+  * <mark style="color:purple;background-color:purple;">**Sentiment classification**</mark>
 * <mark style="color:purple;background-color:purple;">**A regular RNN will go only L to R, so it wont be able to understand the context and may not predict correct output, this will happen in cases where word can have multiple meanings (e.g., queen)**</mark>
 * <mark style="color:purple;background-color:purple;">**If we are able to feed the reverse, then we will be knowing the next sequence also**</mark>
 *

@@ -1,4 +1,8 @@
-# Bidirectional RNN
+---
+hidden: true
+---
+
+# ✈️ Bidirectional RNN
 
 * It can be Bi-directional RNN/LSTM/GRU
 * &#x20;Example:
