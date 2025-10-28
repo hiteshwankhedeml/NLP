@@ -1,6 +1,6 @@
 # 🟢 TF IDF implementation
 
-* <mark style="color:purple;background-color:purple;">**Use TfidfVectorizer from sklearn**</mark>
+* <mark style="color:purple;background-color:purple;">**Use TfidfVectorizer from sklearn, we can also pass ngram range to it**</mark>
 
 ```python
 from sklearn.feature_extraction.text import TfidfVectorizer

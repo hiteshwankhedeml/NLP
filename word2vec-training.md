@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ✈️ Word2Vec - Training
 
 * <mark style="color:purple;background-color:purple;">**Pretrained:**</mark>

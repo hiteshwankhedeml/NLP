@@ -5,7 +5,7 @@
 
     <figure><img src=".gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:purple;background-color:purple;">**When show we apply:**</mark>
+<mark style="color:purple;background-color:purple;">**When should we apply:**</mark>
 
 * <mark style="color:purple;background-color:purple;">CBOW ⇒  Small dataset</mark>
 * <mark style="color:purple;background-color:purple;">SkipGram ⇒ Huge dataset</mark>
