@@ -1,6 +1,6 @@
-# 🟢 Word2Vec practical implementation - Gensim
+# 🟢 Word2Vec - Pre Trained
 
-* <mark style="color:purple;background-color:purple;">**We can use gensim to download pre trained word2vec models**</mark>
+* <mark style="color:purple;background-color:purple;">**We can use gensim to download pre trained word2vec models ⇒ word2vec-google-news-300**</mark>
 
 ```python
 import gensim

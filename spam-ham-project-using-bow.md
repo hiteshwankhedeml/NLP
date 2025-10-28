@@ -2,15 +2,15 @@
 
 <mark style="color:purple;background-color:purple;">**Steps:**</mark>
 
-* <mark style="color:purple;background-color:purple;">**get data**</mark>
-* <mark style="color:purple;background-color:purple;">**lowercase**</mark>
-* <mark style="color:purple;background-color:purple;">**stemming**</mark>
-* <mark style="color:purple;background-color:purple;">**remove stop words**</mark>
-* <mark style="color:purple;background-color:purple;">**train test split**</mark>
-* <mark style="color:purple;background-color:purple;">**x = count vectorizer. fit\_transform**</mark>
-* <mark style="color:purple;background-color:purple;">**y = pd.get\_dummies**</mark>
-* <mark style="color:purple;background-color:purple;">**Train using algo**</mark>
-* <mark style="color:purple;background-color:purple;">**Check the accuracy**</mark>
+* <mark style="color:purple;background-color:purple;">get data</mark>
+* <mark style="color:purple;background-color:purple;">lowercase</mark>
+* <mark style="color:purple;background-color:purple;">stemming</mark>
+* <mark style="color:purple;background-color:purple;">remove stop words</mark>
+* <mark style="color:purple;background-color:purple;">train test split</mark>
+* <mark style="color:purple;background-color:purple;">x = count vectorizer. fit\_transform</mark>
+* <mark style="color:purple;background-color:purple;">y = pd.get\_dummies ⇒ One Hot Encoding</mark>
+* <mark style="color:purple;background-color:purple;">Train using algo</mark>
+* <mark style="color:purple;background-color:purple;">Check the accuracy</mark>
 
 ```python
 messages # Data frame with columns - label and message

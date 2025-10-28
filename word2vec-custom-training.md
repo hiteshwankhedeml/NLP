@@ -1,4 +1,4 @@
-# 🟢 Custom training for word2vec
+# 🟢 Word2Vec - Custom training
 
 * <mark style="color:purple;background-color:purple;">**Pretrained:**</mark>
   * <mark style="color:purple;background-color:purple;">**Google\_news\_300 - This will convert every word into 300 dimension**</mark>
@@ -8,10 +8,14 @@
 <mark style="color:purple;background-color:purple;">**Steps:**</mark>
 
 * <mark style="color:purple;background-color:purple;">**Get the corpus**</mark>
-* <mark style="color:purple;background-color:purple;">**use simple\_preprocess from gensim ⇒ lowercase, remove punctuation/special characters, tokenization ⇒ we get list of list of tokens**</mark>
-* <mark style="color:purple;background-color:purple;">**using gensim.models.word2vec ⇒ initialize window size, vector size etc**</mark>
-* <mark style="color:purple;background-color:purple;">**using gensim.train ⇒ start the training**</mark>
-* <mark style="color:purple;background-color:purple;">**Word2Vec embeddings are evaluated intrinsically (similarity, analogy) or extrinsically (downstream task), not by absolute loss.**</mark>
+
+| Gensim Function                                                                   | Usage                                                                                                                                                          |
+| --------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <mark style="color:purple;background-color:purple;">**simple\_preprocess**</mark> |  <mark style="color:purple;background-color:purple;">**lowercase, remove punctuation/special characters, tokenization ⇒ we get list of list of tokens**</mark> |
+| <mark style="color:purple;background-color:purple;">**word2vec**</mark>           | <mark style="color:purple;background-color:purple;">**initialize window size, vector size etc**</mark>                                                         |
+| <mark style="color:purple;background-color:purple;">**train**</mark>              | <mark style="color:purple;background-color:purple;">**start the training**</mark>                                                                              |
+
+* <mark style="color:purple;background-color:purple;">**Evaluated intrinsically (similarity, analogy) or extrinsically (downstream task), not by absolute loss.**</mark>
 * <mark style="color:purple;background-color:purple;">**The loss itself is mostly used to monitor convergence, not for final evaluation.**</mark>
 
 ```python
