@@ -1,5 +1,12 @@
 # 🔴 Text cleaning
 
+* <mark style="color:purple;background-color:purple;">**We mostly used libraries like cleantext / nlp-text-clean**</mark>
+* <mark style="color:purple;background-color:purple;">**In this we pass the initialize the object ⇒ like lower\_case , remove\_html\_tags , remove\_url, remove\_stopwords , lemmatize**</mark>
+* <mark style="color:purple;background-color:purple;">**It internally has pre-defined lemmatizer which one to be used**</mark>
+* <mark style="color:purple;background-color:purple;">**We pass text to this cleaner ⇒ get cleaned text**</mark>
+
+
+
 <mark style="color:purple;background-color:purple;">**Libraries Used:**</mark>
 
 * <mark style="color:purple;background-color:purple;">**retext ⇒ remove punctuation**</mark>
