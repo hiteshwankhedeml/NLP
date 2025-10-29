@@ -1,4 +1,4 @@
-# 🔴 Data passing to RNN
+# 🟢 Data passing to RNN
 
 **Sentiment Analysis:**
 

@@ -1,6 +1,6 @@
 # 🔴 Problems with RNN
 
-<mark style="color:purple;background-color:purple;">**Vanishing Gradient Problem:**</mark>
+<mark style="color:purple;background-color:purple;">**Vanishing Gradient Problem**</mark>
 
 * In ANN, we faced vanishing gradient problem, same problem we can face in RNN as well
 * If we are working on a text generation problem, so the word will be predicted based on the previous words

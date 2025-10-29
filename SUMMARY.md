@@ -63,7 +63,7 @@
 * [🟢 RNN Overview](rnn-overview.md)
 * [🟢 Sequential Memory](sequential-memory.md)
 * [🟢 Short term memory problem](short-term-memory-problem.md)
-* [🔴 Data passing to RNN](data-passing-to-rnn.md)
+* [🟢 Data passing to RNN](data-passing-to-rnn.md)
 * [🟢 Types of Configuration](types-of-configuration.md)
 * [🟢 RNN forward propagation with time](rnn-forward-propagation-with-time.md)
 * [🟢 Trainable Parameters](trainable-parameters.md)
