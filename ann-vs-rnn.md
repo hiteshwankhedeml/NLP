@@ -2,7 +2,7 @@
 hidden: true
 ---
 
-# 🟢 ANN vs RNN
+# ✈️ ANN vs RNN
 
 * Dataset (Sentiment Analysis)
 
