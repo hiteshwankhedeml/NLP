@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ✈️ Combination of Forget and Input
 
 * When we multiply Ct-1 and ft then we are forgetting some info

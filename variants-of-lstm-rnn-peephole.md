@@ -1,9 +1,9 @@
 # 🟢 Variants of LSTM RNN - Peephole
 
 * Introduced by Gers and Schmidhuber in 2000
-* <mark style="color:purple;background-color:purple;">**Ct-1 has been passed to Input gate and forget gate**</mark>
-* <mark style="color:purple;background-color:purple;">**Ct has been passed to output gate**</mark>
-* <mark style="color:purple;background-color:purple;">**This connections are known as Peephole connections**</mark>
+* <mark style="color:red;background-color:purple;">**Ct-1 has been passed to Input gate and forget gate**</mark>
+* <mark style="color:red;background-color:purple;">**Ct has been passed to output gate**</mark>
+* <mark style="color:red;background-color:purple;">**This connections are known as Peephole connections**</mark>
 *
 
     <figure><img src=".gitbook/assets/{40285C70-9677-4FE8-9700-F2A56482C462}.png" alt=""><figcaption></figcaption></figure>

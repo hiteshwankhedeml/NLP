@@ -1,5 +1,8 @@
 # 🟢 Input Gate and Candidate memory
 
+* <mark style="color:purple;background-color:purple;">**Here tanh decides what is to be passed**</mark>
+* <mark style="color:purple;background-color:purple;">**Sigmoid decides by how much it should be passed**</mark>
+* <mark style="color:purple;background-color:purple;">**Output of tanh and sigmoid will be multiplied and added to Ct**</mark>
 * Xt and Ht-1 is concatenated
 * From input gate we will get It
 * From candidate memory we will get Ct

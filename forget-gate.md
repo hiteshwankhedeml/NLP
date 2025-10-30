@@ -17,9 +17,9 @@
 *
 
     <figure><img src=".gitbook/assets/image (31) (1).png" alt=""><figcaption></figcaption></figure>
-* If Ct-1 = \[6 8 0] and ft = \[0 0 0] ⇒ Then it means complete sentence context has been changed
-* If ft = \[1 1 1] ⇒ No change in context
-*   If ft = \[0.5 1 0.5] ⇒ So context will be removed
+* <mark style="color:purple;background-color:purple;">**If Ct-1 = \[6 8 0] and ft = \[0 0 0] ⇒ Then it means complete sentence context has been changed**</mark>
+* <mark style="color:purple;background-color:purple;">**If ft = \[1 1 1] ⇒ No change in context**</mark>
+*   <mark style="color:purple;background-color:purple;">**If ft = \[0.5 1 0.5] ⇒ So context will be removed**</mark>
 
     <figure><img src=".gitbook/assets/image (32) (1).png" alt=""><figcaption></figcaption></figure>
 
