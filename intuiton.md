@@ -1,4 +1,4 @@
-# Intuiton
+# 🟢 Intuiton
 
 * If we have a sentence in English and want to convert it into French, this is a many to many RNN
 * This is a <mark style="color:purple;background-color:purple;">**seq2seq NN**</mark> (Input as well as output are sequence)

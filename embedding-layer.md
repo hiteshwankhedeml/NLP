@@ -1,4 +1,4 @@
-# Embedding Layer
+# 🟢 Embedding Layer
 
 * Pre-trained embedding layers are available
 * That’s why transfer learning came into picture

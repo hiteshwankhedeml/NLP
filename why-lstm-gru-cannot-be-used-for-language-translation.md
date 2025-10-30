@@ -1,4 +1,4 @@
-# Why LSTM/GRU cannot be used for Language Translation
+# 🟢 Why LSTM/GRU cannot be used for Language Translation
 
 * <mark style="color:purple;background-color:purple;">**Variable length in input and output**</mark>
 * <mark style="color:purple;background-color:purple;">**Long term dependencies are not captured**</mark>

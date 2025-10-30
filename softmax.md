@@ -1,4 +1,8 @@
-# Softmax
+---
+hidden: true
+---
+
+# ✈️ Softmax
 
 *
 
