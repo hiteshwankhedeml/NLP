@@ -22,7 +22,7 @@
 * <mark style="color:purple;background-color:purple;">**We have reversed the input sequence here**</mark>
 * We are not using any output here, we will be using last value here and passing it to decoder
 * We have embedding lookup for target language
-* 1st character is \<sos> and at end we use \<eos>
+* <mark style="color:purple;background-color:purple;">**1st character is \<sos> and at end we use \<eos>**</mark>
 * This target language embeddings are passed to decoder
 * The outputs will be passed to softmax layer
 * Softmax will give probability of sentence
