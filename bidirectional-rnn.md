@@ -2,7 +2,7 @@
 hidden: true
 ---
 
-# ✈️ Bidirectional RNN
+# 🟢 Bidirectional RNN
 
 * It can be Bi-directional RNN/LSTM/GRU
 * &#x20;Example:

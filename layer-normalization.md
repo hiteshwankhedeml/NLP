@@ -1,12 +1,12 @@
-# Layer Normalization
+# 🟢 Layer Normalization
 
 *
 
     <figure><img src=".gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
 * After multi head attention there is add and normalize step
-* Residual: Vector which we got after getting positional encoding are passed to Add and Normalize
+* <mark style="color:purple;background-color:purple;">**Residual: Vector which we got after getting positional encoding are passed to Add and Normalize**</mark>
 * They provide additional signal to layer normalization
-* &#x20;Before passing multi head attention to feed forward, we will apply layer normalization
+* &#x20;<mark style="color:purple;background-color:purple;">**Before passing multi head attention to feed forward, we will apply layer normalization**</mark>
 *
 
     <figure><img src=".gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
@@ -30,17 +30,17 @@ Normalization:
 * We convert all this between 0 and 1
 * We usually do this for input scaling
 
-**Advantages:**
+<mark style="color:purple;background-color:purple;">**Advantages:**</mark>
 
 1. **Improved training stability:**
 
 * Our input data can be having different distribution
 * We convert information where all the data is centered around 0
-* When we do back propagation, we will not face vanishing or exploding gradient problem
+* <mark style="color:purple;background-color:purple;">**When we do back propagation, we will not face vanishing or exploding gradient problem**</mark>
 
-2. **Faster convergence:**
+2. <mark style="color:purple;background-color:purple;">**Faster convergence:**</mark>
 
-* Since all the data is 0 centered, when we apply back propagation there will be stables updates
+* <mark style="color:purple;background-color:purple;">Since all the data is 0 centered, when we apply back propagation there will be stables updates</mark>
 
 
 

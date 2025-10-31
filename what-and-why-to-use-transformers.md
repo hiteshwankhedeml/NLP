@@ -2,7 +2,7 @@
 
 * Type of <mark style="color:purple;background-color:purple;">**DL model that uses self attention mechanism**</mark> to analyze and process natural language data
 * They are <mark style="color:purple;background-color:purple;">**encoder decoder models**</mark> that can be used for many applications including machine translation (Seq2Seq task)
-* <mark style="color:purple;background-color:purple;">**Problem with attention mechanism: Cannot send words parallely, so no scalability**</mark>
+* <mark style="color:purple;background-color:purple;">**Problem with attention mechanism: Cannot send words parallelly, so no scalability**</mark>
   * We send words to encoder decoder based on each timestamp
   * So we parallelly cannot send all the words ⇒ So model will not be scalable
   * If dataset is huge, encoder decoder will not be scalable w.r.t training
@@ -13,7 +13,7 @@
 * BERT, GPT ⇒ Trained with huge data ⇒ Can directly use transfer learning
 * Based on this lot of LLM models for GenAI have been developed
 * <mark style="color:purple;background-color:purple;">**Contextual Embeddings: get vector in relation with other words**</mark>
-  * &#x20;When we pass the data in embedding layer
+  * When we pass the data in embedding layer
   * So embedding layer will give vector for each word
   * We should always to try to get vector in relation with other words
   *

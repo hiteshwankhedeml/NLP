@@ -1,4 +1,8 @@
-# Layer Normalization Example
+---
+hidden: true
+---
+
+# ✈️ Layer Normalization Example
 
 * &#x20;Gamma is scale parameter
 * Beta is shift parameter

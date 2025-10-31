@@ -1,8 +1,8 @@
-# Complete Encoder Transformer Architecture
+# 🟢 Complete Encoder Transformer Architecture
 
 * As per the research paper, there are 6 encoders and 6 decoders
-* Every word will have dimension of 512, same will be positional embedding
-* In self attention, we have important parameters ⇒ Q, V, K ⇒ dimension of 64
+* <mark style="color:purple;background-color:purple;">**Every word will have dimension of 512, same will be positional embedding**</mark>
+* <mark style="color:purple;background-color:purple;">**In self attention, we have important parameters ⇒ Q, V, K ⇒ dimension of 64**</mark>
 
 **Steps:**
 
