@@ -1,9 +1,9 @@
-# Decoder - Masked Multi Head Attention
+# 🟢 Decoder - Masked Multi Head Attention
 
 * Lets  say we have language translation ⇒ English\<x1 x2 x3> to Hindi\<y1 y2>
 * During training, x1, x2, x3 will be given to encoder
-* Output of encoder will go to Multi Head attention in Decoder
-* Output shifted right means we use 0 padding \<y1 y2> ⇒ \<y1 y2 0>
+* <mark style="color:purple;background-color:purple;">**Output of encoder will go to Multi Head attention in Decoder**</mark>
+* <mark style="color:purple;background-color:purple;">**Output shifted right means we use 0 padding \<y1 y2> ⇒ \<y1 y2 0>**</mark>
 *
 
     <figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>

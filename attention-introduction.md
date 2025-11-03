@@ -1,4 +1,8 @@
-# 🟢 Attention - Introduction
+---
+hidden: true
+---
+
+# ✈️ Attention - Introduction
 
 
 

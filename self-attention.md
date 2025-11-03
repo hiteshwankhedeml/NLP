@@ -1,4 +1,8 @@
-# Self Attention
+---
+hidden: true
+---
+
+# ✈️ Self Attention
 
 * This process of doing re-weighing is knows as self-attention
 *
