@@ -1,4 +1,4 @@
-# Types of Masking
+# 🟢 Types of Masking
 
 Types:
 

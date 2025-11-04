@@ -11,7 +11,7 @@
 * The outputs of both the RNNs will be combined
 * <mark style="color:purple;background-color:purple;">**S0 is the hidden state**</mark>
 * <mark style="color:purple;background-color:purple;">**h1, h2, h3 will be output, we will convert it into some context and then give it to the decoder**</mark>
-* <mark style="color:purple;background-color:purple;">**The idea is to create a new context vector every timestep on the decoder which attends differently to the encoded sequence**</mark>
+* <mark style="color:red;background-color:purple;">**The idea is to create a new context vector every timestep on the decoder which attends differently to the encoded sequence**</mark>
 * <mark style="color:purple;background-color:purple;">**We will pass h1 and S0, h2 and S0 and h3 and S0 to get e11, e12, e13 ⇒ Alignment scores**</mark>
 * <mark style="color:purple;background-color:purple;">**Then we pass it to softmax ANN**</mark>
 * <mark style="color:purple;background-color:purple;">**This will give us a11, a12 and a13 ⇒ This decides how much context vector of each output to be taken**</mark>

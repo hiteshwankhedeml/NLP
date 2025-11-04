@@ -9,7 +9,7 @@ hidden: true
 * In Physics , Vector = Magnitude + Direction
 *
 
-    <figure><img src=".gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (6) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * To represent P, \[ 4 5] is vector representation
 *
 

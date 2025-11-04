@@ -5,7 +5,7 @@
 * Along with this <mark style="color:purple;background-color:purple;">**we will have feedback loop**</mark>
 *   <mark style="color:purple;background-color:purple;">**The output of the hidden layer will be back to the neuron**</mark>
 
-    <figure><img src=".gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 *
 
-    <figure><img src=".gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

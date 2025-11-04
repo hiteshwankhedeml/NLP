@@ -6,7 +6,7 @@ hidden: true
 
 
 
-<figure><img src=".gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Cannot use proximity to understand/gain info from the sentence
 * We may think Roopali is a person, but if we read entire sentence then she is a cow
@@ -22,7 +22,7 @@ hidden: true
 * We need to train in such a way that w1, w4, w6 and w10 should be more
 *   &#x20;&#x20;
 
-    <figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 * In both the sentences, both the bank are having different meaning, which we get after reading the entire sentence
 * If sentence has bank and river then it means we are talking about a water body
 * If sentence has state, bank, india then it means we are talking about a financial institution
@@ -32,7 +32,7 @@ hidden: true
 * <mark style="color:purple;background-color:purple;">**This weights are trainable**</mark>
 *
 
-    <figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 * <mark style="color:purple;background-color:purple;">**We first encode the sentence – V1**</mark>
 * <mark style="color:purple;background-color:purple;">**Then apply re-weigh mechanism**</mark>
   * <mark style="color:purple;background-color:purple;">**V1.V1 = W11**</mark>

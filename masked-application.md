@@ -1,22 +1,22 @@
-# Masked Application
+# 🟢 Masked Application
 
 * It helps manage the structure of the sequences being processed and ensures the models behaves correctly during training and inferencing
 
-Reasons:
+**Reasons:**
 
-1. Handling variable length sequences with passing MASK
+1. Handling variable length sequences with padding MASK
 
-Purpose:
+**Purpose:**
 
-1. To handle sequences of different length in batch
-2. To ensure that padding tokens which are added to make sequences of uniform length do not affect the model prediction
+1. <mark style="color:purple;background-color:purple;">**To handle sequences of different length in batch**</mark>
+2. <mark style="color:purple;background-color:purple;">**To ensure that padding tokens which are added to make sequences of uniform length do not affect the model prediction**</mark>
 
-Example:
+**Example:**
 
 * Since 0 is added then it would influence attention mechanism
-* Suppose if input is of 100 length, and output is of lenght 2, then we will add 98 0s
+* Suppose if input is of 100 length, and output is of length 2, then we will add 98 0s
 * This might affect mechanism due to such a large number of 0s
-* For this we use padding mask ⇒ To ensure that tokens are ignored
+* For this we use <mark style="color:purple;background-color:purple;">**padding mask ⇒ To ensure that tokens are ignored**</mark>
 *
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>

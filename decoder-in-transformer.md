@@ -8,7 +8,7 @@
 * Output of encoder ⇒ Multi head attention of encoder
 *
 
-    <figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * In Encoder, we will be passing all the input at once
 * In Decoder, output will be generated at each time stamp one by one token
 *   <mark style="color:purple;background-color:purple;">**In training, we will be giving actual output to the decoder**</mark>
