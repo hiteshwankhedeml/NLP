@@ -18,4 +18,4 @@
 * <mark style="color:purple;background-color:purple;">**Text preprocessing means how we can clean the data and make the data more usable**</mark>
 *
 
-    <figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

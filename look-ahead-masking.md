@@ -7,7 +7,7 @@
 * For difference sequence task like language modelling, language translation sequence is very important
 *   Sequence \[4 5 0] ⇒ Passing mask \[1 1 0]
 
-    <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 * Lets consider every token is 3 dimension
 * We want 4 to take context of 5, and 5 can take context of 4, but we don't want them to take context of 0
 * For each token in the sequence, the mask should indicate which token it can attend to
@@ -23,4 +23,4 @@
 * Wherever the value is 0, there we specify inf
 *
 
-    <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>

@@ -6,7 +6,7 @@
 * <mark style="color:purple;background-color:purple;">**Output shifted right means we use 0 padding \<y1 y2> ⇒ \<y1 y2 0> ⇒ To make sequences length equal**</mark>
 *
 
-    <figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Masked Multi Head Attention:**
 
@@ -22,7 +22,7 @@
   * &#x20;( Q \* K ) / root of dk
 *
 
-    <figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 *
 
     <figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
