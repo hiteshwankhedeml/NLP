@@ -17,6 +17,6 @@
 * Suppose if input is of 100 length, and output is of length 2, then we will add 98 0s
 * This might affect mechanism due to such a large number of 0s
 * For this we use <mark style="color:purple;background-color:purple;">**padding mask ⇒ To ensure that tokens are ignored**</mark>
-*
+* <mark style="color:purple;background-color:purple;">**In the decoder, the self-attention layer is only allowed to attend to earlier positions in the output sequence. This is done by masking future positions (setting them to**</mark><mark style="color:purple;background-color:purple;">**&#x20;**</mark><mark style="color:purple;background-color:purple;">**`-inf`**</mark><mark style="color:purple;background-color:purple;">**) before the softmax step in the self-attention calculation**</mark>
 
 <figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
