@@ -2,12 +2,13 @@
 
 <mark style="color:purple;background-color:purple;">**Steps:**</mark>
 
-* <mark style="color:purple;background-color:purple;">Remove non alphabetic words using regular expression</mark>
-* <mark style="color:purple;background-color:purple;">Lowercase and split</mark>
-* <mark style="color:purple;background-color:purple;">Remove stopwords</mark>
-* <mark style="color:purple;background-color:purple;">Get the stem word</mark>
-* <mark style="color:purple;background-color:purple;">Combine and form the corpus</mark>
-* <mark style="color:purple;background-color:purple;">From nltk use count vectorizer.fit\_transform</mark>
+* <mark style="color:purple;background-color:purple;">**Remove non alphabetic words using regular expression**</mark>
+* <mark style="color:purple;background-color:purple;">**Lowercase and split**</mark>
+* <mark style="color:purple;background-color:purple;">**Remove stopwords**</mark>
+* <mark style="color:purple;background-color:purple;">**Get the stem word**</mark>
+* <mark style="color:purple;background-color:purple;">**Combine and form the corpus**</mark>
+* <mark style="color:purple;background-color:purple;">**From nltk use count vectorizer.fit\_transform**</mark>
+* <mark style="color:purple;background-color:purple;">**Use count\_vectorizer.vocabulary\_ ⇒ to check the vocab**</mark>
 
 ```python
 # Spam and Ham example
