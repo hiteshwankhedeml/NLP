@@ -2,7 +2,7 @@
 hidden: true
 ---
 
-# 🟢 Implementing Word Embedding with Keras Tensorflow
+# ✈️ Implementing Word Embedding with Keras Tensorflow
 
 <mark style="color:purple;background-color:purple;">**Steps:**</mark>
 

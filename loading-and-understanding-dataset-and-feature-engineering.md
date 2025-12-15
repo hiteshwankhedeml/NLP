@@ -3,6 +3,7 @@
 <mark style="color:purple;background-color:purple;">**Steps:**</mark>
 
 * <mark style="color:purple;background-color:purple;">Load train and test</mark>
+* <mark style="color:purple;background-color:purple;">If its a custom data then use Counter to get dictionary with count of each word, then sort it descending, decide the vocab size and then enumerate</mark>
 * <mark style="color:purple;background-color:purple;">Word to index ⇒ all the words in the corpus</mark>
 * <mark style="color:purple;background-color:purple;">Fix the max length</mark>
 * <mark style="color:purple;background-color:purple;">Pad sequence all the X-Train and X-Test</mark>

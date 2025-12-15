@@ -1,9 +1,15 @@
-# 🟢 Code - Classifier
+---
+hidden: true
+---
+
+# ✈️ Code - Classifier
 
 <mark style="color:purple;background-color:purple;">**Steps:**</mark>
 
 * <mark style="color:purple;background-color:purple;">Clean the data ⇒ Remove punctuations and all</mark>
 * <mark style="color:purple;background-color:purple;">Encoding the words</mark>
+  * <mark style="color:purple;background-color:purple;">`Counter(words)`</mark> <mark style="color:purple;background-color:purple;"></mark><mark style="color:purple;background-color:purple;">counts how many times each word appears ⇒ {"cat": 2, "dog": 1}</mark>
+  * <mark style="color:purple;background-color:purple;">vocab = sorted(counts, key=counts.get, reverse=True) ⇒ \["cat", "dog"]</mark>
   * <mark style="color:purple;background-color:purple;">For each word we will give a number here (Use enumerate)</mark>
   * <mark style="color:purple;background-color:purple;">Each sentence will be converted into numbers then</mark>
 * <mark style="color:purple;background-color:purple;">Encode the labels ⇒ Positive:1 , Negative: 0</mark>

@@ -1,4 +1,8 @@
-# 🟢 Activation Function vs Vanishing Gradient
+---
+hidden: true
+---
+
+# ✈️ Activation Function vs Vanishing Gradient
 
 | Activation     | Derivative Range                                                        | Vanishing Gradient Risk | Notes                                                                                                                        |
 | -------------- | ----------------------------------------------------------------------- | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------- |

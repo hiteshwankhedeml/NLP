@@ -1,4 +1,8 @@
-# 🟢 Evaluation Metrics, Loss Function
+---
+hidden: true
+---
+
+# ✈️ Evaluation Metrics, Loss Function
 
 | Task                           | Common Evaluation Metrics             | Common Loss Functions                      |
 | ------------------------------ | ------------------------------------- | ------------------------------------------ |
