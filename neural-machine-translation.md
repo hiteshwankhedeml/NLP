@@ -35,7 +35,7 @@
 * Embedding of drink and hidden state will go to 2nd RNN
 * Its hidden state will go to next RNN and so on
 * This encoded information will be in the form of array and this will go to decoder
-* We should decode the 1st value of the encoder so that it becomes the 1st decoded value, that’s why we have reversed the input
+* <mark style="color:purple;background-color:purple;">**We should decode the 1st value of the encoder so that it becomes the 1st decoded value, that’s why we have reversed the input**</mark>
 * In decoder, the encoded value of I will be passed and it will be decoded
 * This decoded value will be passed to the next RNN along with the next information
 * \<sos> and encoded value of I, will give decoded value as main

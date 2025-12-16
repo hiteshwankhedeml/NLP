@@ -1,7 +1,7 @@
 # 🟢 Output Gate
 
 * <mark style="color:purple;background-color:purple;">**Whatever information we have after forgetting and adding we will be having Ct (Long term memory)**</mark>
-* <mark style="color:purple;background-color:purple;">**We applt tanh on Ct**</mark>
+* <mark style="color:purple;background-color:purple;">**We apply tanh on Ct**</mark>
 * <mark style="color:purple;background-color:purple;">**The tanh function ensures that the hidden state values remain within a reasonable range (-1 to 1).**</mark>
 * <mark style="color:purple;background-color:purple;">**This prevents exploding activations and ensures smooth gradient flow.**</mark>
 * <mark style="color:purple;background-color:purple;">**And then apply pointwise operation of this value with sigmoid output**</mark>
