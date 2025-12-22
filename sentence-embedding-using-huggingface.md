@@ -1,4 +1,8 @@
-# 🟢 Sentence embedding using Huggingface
+---
+hidden: true
+---
+
+# 🟡 Sentence embedding using Huggingface
 
 <mark style="color:purple;background-color:purple;">**Steps:**</mark>
 

@@ -1,4 +1,8 @@
-# Dataloader and Dataset
+---
+hidden: true
+---
+
+# 🟡 Dataloader and Dataset
 
 * When data is huge, data wont fit into RAM, we need to use dataloader there, so that we can process in batches
 * Dataset it initalizing the data

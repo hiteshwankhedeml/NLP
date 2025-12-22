@@ -1,4 +1,8 @@
-# Research Paper - Transformer and ULMFit
+---
+hidden: true
+---
+
+# 🟡 Research Paper - Transformer and ULMFit
 
 * Transformer has 2 parts - Encoder and Decoder
 * As per ULMFit paper - it mentioned how we can use transfer learning in NLP domain

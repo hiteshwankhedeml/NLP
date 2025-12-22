@@ -1,2 +1,6 @@
-# 🔴 Sentence Transformer
+---
+hidden: true
+---
+
+# 🟡 Sentence Transformer
 

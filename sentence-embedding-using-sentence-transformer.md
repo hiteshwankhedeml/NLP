@@ -1,4 +1,8 @@
-# 🟢 Sentence embedding using sentence transformer
+---
+hidden: true
+---
+
+# 🟡 Sentence embedding using sentence transformer
 
 * <mark style="color:purple;background-color:purple;">**all-mpnet-base-v2 / all-MiniLM-L6-v2 is transformer based model**</mark>
 

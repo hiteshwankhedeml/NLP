@@ -1,4 +1,4 @@
-# Compute Mask
+# 💀 Compute Mask
 
 * Compute look ahead mask
 * Compute padding mask computed to 2D format

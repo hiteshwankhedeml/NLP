@@ -1,4 +1,8 @@
-# Sentence embedding using transformers
+---
+hidden: true
+---
+
+# 🟡 Sentence embedding using transformers
 
 Steps:
 
